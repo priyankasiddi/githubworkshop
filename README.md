@@ -1,6 +1,6 @@
 # Githubworkshop
 ## Introduction
-### First program
+### First class
 *Italic style*
 
 **bold style**
@@ -20,5 +20,11 @@
 [Google](https://www.google.com/)
 
 ![charminar](https://cdn.theculturetrip.com/wp-content/uploads/2016/06/24498998325_f451c67aae_o.jpg)
+
+Sno|Name
+----|----
+1|Priya
+2|sahithi
+3|manasa
 
 
