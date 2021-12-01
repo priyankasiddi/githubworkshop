@@ -1,3 +1,5 @@
+[Github syntax reference](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 # Githubworkshop
 ## Introduction
 ### First class
@@ -26,5 +28,11 @@ Sno|Name
 1|Priya
 2|sahithi
 3|manasa
+
+:smile:
+
+>Hello guys
+
+
 
 
